@@ -139,7 +139,7 @@ class UserController extends Controller
         ));
     }
     public function redirectAction()
-    {
+    {//oumaima
         return $this->render('ZanimauxBundle:User:Layout2.html.twig', array(
             // ...
         ));
